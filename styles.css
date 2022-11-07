@@ -7,13 +7,13 @@
 
 body {
   font-family: "Raleway", sans-serif;
-  color: #525252;
+  color: #000000;
   user-select: none;
 }
 .headtext{
   display:flex;
   justify-content: center;
-  color: #ff656c;
+  color: #000000;
   margin-top:50px;
 
 }
@@ -35,7 +35,7 @@ body {
 .bpm-display {
   width: 100%;
   text-align: center;
-  color: #fa545c;
+  color: #000000;
   font-weight: bold;
 }
 
