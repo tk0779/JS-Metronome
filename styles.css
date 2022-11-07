@@ -10,7 +10,12 @@ body {
   color: #525252;
   user-select: none;
 }
+.headtext{
+  display:flex;
+  justify-content: center;
+  color: #ff656c;
 
+}
 .container {
   display: flex;
   justify-content: center;
